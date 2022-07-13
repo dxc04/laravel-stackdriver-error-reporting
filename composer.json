@@ -30,6 +30,6 @@
                 "Absszero\\ErrorReportingServiceProvider"
             ]
         }
-    }
+    },
     "minimum-stability": "dev"
 }
