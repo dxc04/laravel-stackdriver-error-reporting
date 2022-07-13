@@ -1,5 +1,5 @@
 {
-    "name": "absszero/laravel-stackdriver-error-reporting",
+    "name": "dxc04/laravel-stackdriver-error-reporting",
     "description": "Stackdriver Error Reporting for Laravel",
     "type": "laravel",
     "license": "MIT",
@@ -31,4 +31,5 @@
             ]
         }
     }
+    "minimum-stability": "dev"
 }
